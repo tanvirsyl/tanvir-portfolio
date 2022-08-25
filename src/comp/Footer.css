@@ -1,0 +1,15 @@
+.footer {
+  background: url(./Asset/bg.jpg);
+  width: 100%;
+  height: 50px;
+  margin-top: 2rem;
+  border-radius: 10px;
+}
+.footer__copy {
+  display: block;
+  text-align: center;
+  justify-content: center;
+  padding-top: 10px;
+  font-size: 1rem;
+  color: black;
+}
